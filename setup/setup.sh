@@ -1,0 +1,3 @@
+#!/bin/sh
+
+./configure --prefix=/usr/local --mandir=/usr/local/share/man --infodir=/usr/local/share/info --disable-dependency-tracking --with-ldap=/usr --with-kerberos=/usr --enable-cli --with-zlib=/opt/local --enable-trans-sid --with-xml --enable-exif --enable-ftp --enable-mbstring --enable-mbregex --enable-dbx --enable-sockets --with-iodbc=/usr --with-curl=/opt/local --with-config-file-path=/etc --sysconfdir=/private/etc --with-mysql-sock=/tmp/mysql.sock --with-mysqli=/usr/local/mysql/bin/mysql_config --with-mysql=/usr/local/mysql --with-openssl --with-xmlrpc --with-xsl=/usr --without-pear --with-iconv=/opt/local --enable-fastcgi
